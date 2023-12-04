@@ -1,0 +1,87 @@
+h2{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: center;
+	color: #000000;
+}
+
+body{
+	background-image: linear-gradient( to top, #2d3967, #cfb8e3 );
+	background-repeat: no-repeat;
+	background-color: #2d3967;
+	
+	}
+
+header{
+	font-size: 195%;
+	font-family: 'Courier New', Courier, monospace;
+	color: #c7a5d9;
+	background-color: #251228;
+	text-align: center;
+}
+
+p{
+	font-family: 'Courier New', Courier, monospace;
+	font-size: large;
+}
+
+footer{
+	font-style: italic;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: small;
+}
+
+#wrapper{
+	box-shadow: 5px 5px 5px #000000;
+	width: 95%;
+	margin: auto;
+	min-width: 960px;
+	max-width: 2048px;
+	background-color: #373154;
+
+}
+
+nav{
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav a{
+	color: #87a5d9;
+}
+
+
+a{ text-decoration: none;
+	color: #1f1d25;
+	
+}
+
+#box{
+	background-image: linear-gradient(to bottom, #68393d, #d43846);
+	margin-bottom: 23px;
+	list-style-image: url(bullet-hole.png);
+	font-family: 'Courier New', Courier, monospace
+}
+
+#box2{
+	background-image: linear-gradient(to bottom, #d43846, #68393d);
+	margin-top: 50px;
+	list-style-image: url(bullet-hole.png);
+	font-family: 'Courier New', Courier, monospace;
+}
+
+#reviews{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	list-style-image: url(Gun-BP_3.png);
+}
+
+.poster{
+	position: absolute;
+	left: 59%;
+	top: 32%;
+}
+
+iframe{
+	padding-bottom: 40px;
+}
